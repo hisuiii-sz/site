@@ -9,7 +9,7 @@ body {
 
 header {
     background-color: #FFD1DC; /* Fundo pastel para o cabeçalho */
-    padding: 30px;
+    padding: 40px;
 }
 
 nav ul {
@@ -25,12 +25,12 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #F16590; /* Cor das letras dos links */
-    font-size: 25px;
+    font-size: 30px;
     font-weight: bold;
 }
 
 section h2 {
-    font-size: 24px;
+    font-size: 30px;
     margin-top: 30px;
     font-family: 'Dancing Script', cursive; /* Fonte cursiva fofinha */
 }
