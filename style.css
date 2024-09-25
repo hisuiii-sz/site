@@ -1,5 +1,5 @@
 body {
-    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fonte cursiva fofinha */
+    font-family: 'Dancing Script', cursive; /* Fonte cursiva fofa e elegante */
     background-color: #FEE3EC; /* Tom pastel suave */
     color: #F16590; /* Cor das letras */
     margin: 0;
@@ -32,7 +32,7 @@ nav ul li a {
 section h2 {
     font-size: 24px;
     margin-top: 30px;
-    font-family: 'Pacifico', cursive; /* Fonte cursiva fofinha */
+    font-family: 'Dancing Script', cursive; /* Fonte cursiva fofinha */
 }
 
 section {
