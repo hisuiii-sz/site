@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center; /* Centraliza o texto */
+    font-size: 25px; /* Aumenta o tamanho para 18 pixels, por exemplo */
 }
 
 header {
